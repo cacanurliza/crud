@@ -4,5 +4,5 @@ username varchar (50),
 nama varchar (50),
 alamat varchar (50),
 email varchar (50),
-no_hp varchar (14),
+no_hp varchar (14)
 );
